@@ -3,7 +3,7 @@
     <img src="readme/WonderBanner.PNG" alt="Not Skystone Banner"><br>
 </p>
 
-Flappy Bird Wonder is a common flappy bird clone, but with a Mario Wonder inspired twist. This is a small project is the result spare hours where I got nothing better to do.
+Flappy Bird Wonder is a common flappy bird clone, but with a Mario Wonder inspired twist. This small project is the accumulated result of a couple spare hours where I got nothing better to do.
 
 # Gameplay
 
